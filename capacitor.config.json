@@ -1,0 +1,12 @@
+{
+  "appId": "example.repro",
+  "appName": "repro",
+  "server": {
+    "url": "http://localhost:5173"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
